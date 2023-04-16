@@ -37,7 +37,7 @@ Verifique se está instalado corretamente executando os seguintes comandos em se
 
 <p>Abra o terminal do git, de preferência em sua área de trabalho, e execute o comando</p>
 
-    $ git clone https://github.com/SilvanMoura/freela-php-oop
+    git clone https://github.com/SilvanMoura/freela-php-oop
 
 <img src="./resources/clone.gif" alt="clone repositório">
 
@@ -53,7 +53,7 @@ Verifique se está instalado corretamente executando os seguintes comandos em se
 
 <div>
 
-    $ cd freela-php-oop
+    cd freela-php-oop
 
 <img src="./resources/openFile.gif" alt="open file">
 
@@ -69,7 +69,7 @@ Verifique se está instalado corretamente executando os seguintes comandos em se
 
 <div>
 
-    $ php public/index.php
+    php public/index.php
 
 <img src="./resources/execFile.gif" alt="execute file">
 
